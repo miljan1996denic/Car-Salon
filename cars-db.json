@@ -1,0 +1,128 @@
+{
+  "cars": [
+    {
+      "name": "Audi",
+      "model": "A3",
+      "fuel": "benzin",
+      "engine": "1800",
+      "price": "26000",
+      "numDoors": "5",
+      "comm": [
+        "U odnosu na Golf udobniji, veći prtljažnik, pouzdan i vrlo jak, nije veliki potrošač, stabilan, dugotrajan, mnogo prelazi, otporan na koroziju, enterijer kvalitetan i lep.",
+        "Audi A3 1.8 T quattro 132KW/180PS (2003) .... startan, upravljiv, udoban, brz, lep, zgodan, neophodan. Munja od Auta. ;-)",
+        "mala potrosnja,gepeka ima prilcno dosta,poudzan auto,servisiranje nije tako skupo",
+        "agr motor 90ks mala potrosnja asv 110 ks bolje performanse. cvrst i lep auto.",
+        "Svidja mi se enterijer"
+      ],
+      "id": 10
+    },
+    {
+      "name": "BMW",
+      "model": " X3 20d xDrive M paket",
+      "fuel": "Dizel",
+      "engine": "1995 ",
+      "price": "63800",
+      "numDoors": "5",
+      "comm": [
+        "Motor je stvarno izvanredan i vuce nestvarno dobro za tu malu kubikazu",
+        "Potrosnja zavisi od noge na papucici. Ukoliko se vozi laganica, uglavnom oko 80 recimo i uz koriscenje tempomata put se moze zavrsiti sa manje od 6 litara na sto. Medjutim ako stalno stiskate papucicu gasa i vozite kao da ste na trkama ne ocekujte ispod 8 na otvorenom.",
+        "Menjac je izuzetan i sa svojih 8 brzina je idealno uparen sa ovim motorom.",
+        "Cena je previsoka za moje mogucnosti."
+      ],
+      "id": 11
+    },
+    {
+      "name": "Hyundai ",
+      "model": "Elantra crdi Premium",
+      "fuel": "Dizel",
+      "engine": "1582 ",
+      "price": "18000",
+      "numDoors": "5",
+      "comm": [
+        "Elantra 1.6 benzinac premium paket... Topla preporuka, ako vam se svidja ta vrsta automobila.",
+        "Prevazisao je sva moja ocekivanja. Secam se da, dok sam sedeo u njemu u salonu, nisam bio siguran, da je to to, ali od prvog metra voznje imam utisak kao da ovaj auto vozim celog zivota. "
+      ],
+      "id": 12
+    },
+    {
+      "name": "Alfa Romeo",
+      "model": "Giulietta",
+      "fuel": "Benzin",
+      "engine": "1368 ",
+      "price": "16000",
+      "numDoors": "5",
+      "comm": [
+        "Vozim najslabijeg turbo benzinca od 120KS (1.4). Fenomenalan vozački auto, ima \"sport\" režim u kom prosto leti, pravi užitak za vožnju. ",
+        " Cena ovakvog modela za ono što nudi uopšte nije tako visoka. Malo je tvrđi auto za vožnju ali za vozački auto to je prednost. Meni se lično jako dopada. Potrošnja na autoputu na 120 km/h je samo 6.0 litara."
+      ],
+      "id": 13
+    },
+    {
+      "name": "Nissan ",
+      "model": "Juke CVT ACENTA NC",
+      "fuel": "Benzin",
+      "engine": "1598 ",
+      "price": "18000",
+      "numDoors": "5",
+      "comm": [
+        "Izuzetno visok klirens okretnost za gradske uslove mala potrosnja \nstartan gradski krosover \ndizajn koji ne ostavlja nikog bez misljenja nekom prelep nekom jako ruzan",
+        "PouzdanostPotrošnjaMotor Izuzetno visok klirens okretnost za gradske uslove mala potrosnja \nstartan gradski krosover \ndizajn koji ne ostavlja nikog bez misljenja nekom prelep nekom jako ruzan\n\nkratak manuelni menjac na putu nedostaje sesta brzina ,tvrde plastike javlja se skripkanje u kosevima i vibracija table . Previse tvrdo ogibljenje za nase puteve . Za sad ne skodi samim trapovima ali udara po ledjima."
+      ],
+      "id": 14
+    },
+    {
+      "name": "Renault",
+      "model": "Scenic EditionOne",
+      "fuel": "Benzin",
+      "engine": "1461 ",
+      "price": "27000",
+      "numDoors": "5",
+      "comm": [
+        "Ekonomičan, ISOFIX odlična sedišta, 6 brzina za 1.5 dci sa 110 ks sasvim dovoljno za ovakav auto, nije skupa registracija",
+        "Imam Scenic-a XMOD 2011. godiste 2.0 dci 160ks. Odlican auto uz odlican odnos cene i kvaliteta",
+        "Go obozavam poradi negovata ekonomicnost, komfornost, udobna voznja, i fantasticna linija za toj tip na avtomobil..."
+      ],
+      "id": 15
+    },
+    {
+      "name": "BMW",
+      "model": "520 d Sport Line",
+      "fuel": "Benzin",
+      "engine": "1995 ",
+      "price": "53000",
+      "numDoors": "5",
+      "comm": [
+        "PouzdanostOdržavanjePotrošnjaKomforMotor vrlo zanimljiv za vožnju na xDrive pogon, potrošnja 6,2 ZH-BG bez maženja",
+        "Jako usluzan auto"
+      ],
+      "id": 17
+    },
+    {
+      "name": "Volkswagen ",
+      "model": "Golf 7",
+      "fuel": "Benzin",
+      "engine": "999 ",
+      "price": "15000",
+      "numDoors": "4",
+      "comm": [
+        "Golf 1.2 tsi 63 kw za sad bez mana s obzirom da je relativno mlad 4 god. Potrosnja od 5 do 8.5lit. Kad stisnes gas normalno i da vise trosi u Njemackoj na auto putu vozio sam 180 i na bordu je stajalo 8.5 sto je sasvim ok za mene e ako komp.laze onda sigurno i vise uzima. Al meni je sasvim nebitno k...",
+        "Nekad poludi centralni displej kad je hladno blokira 2 puta se do sad desilo . Jednom je sam od sebe krenuo a jednom je morao servis da ga pokrene.",
+        "moglo bi se reci da je malo snaga ipak 85 konja ako volite brzu voznju,ali slobodno mozete uraditi cip da bude 105 konja jer postoji isti takav motor sve je isto samo je 1000e skuplji,a glupo je davati u startu tolko kad se moze uraditi cip za 100e"
+      ],
+      "id": 18
+    },
+    {
+      "name": "BMW ",
+      "model": "X5 M50",
+      "fuel": "Benzin",
+      "engine": "3000 ",
+      "price": "89900",
+      "numDoors": "5",
+      "comm": [
+        "Prešao sam oko 20.000km (dva vozila vozio jedno za drugim), istina oba potpuno nova (prvi vozač). Vozilo odaje utisak pouzdanosti. Odziv vozila na volanu izuzetan. Precizno updavljanje. Menjač (8.step.Auto) je savršenstvo. Menjanjem moda vožnje (iz Confort u Sport) dobijate zver na putu.\nIako glomazan, ovaj SAV je vrlo živahan.",
+        "Nađena falinka je da vozilo na ekstremno niskim temperaturama (nižim od -15) ne može da postigne radnu temperaturu motora, pa samim tim nema ni grejanja u kabini. Rešenje je zalepiti karton na prednju masku i tako voziti. "
+      ],
+      "id": 19
+    }
+  ]
+}

@@ -1,0 +1,176 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+header {
+  background-color: #262626;
+  text-align: center;
+  color: #0653b6;
+  font-size: 50px;
+  font-family: Verdana, Geneva, sans-serif;
+}
+Link{
+  text-decoration: none;
+}
+*, *:before, *:after {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Open Sans', 'sans-serif';
+  background-color: #fff;
+  color: #444;
+}
+
+h1, p {
+  margin: 0 0 1em 0;
+}
+
+.wrapper {
+  max-width: 940px;
+  display: grid;
+  grid-gap: 10px;
+}
+
+@media screen and (min-width: 500px) {
+
+  /* no grid support? */
+  .sidebar {
+    float: left;
+    width: 19.1489%;
+  }
+
+  .content {
+    float: right;
+    width: 79.7872%;
+  }
+
+  .wrapper {
+    margin: 0 auto;
+    grid-template-columns: 1fr 3fr;
+  }
+  
+  .header, .footer {
+    grid-column: 1 / -1;
+    /* needed for the floated layout */
+    clear: both;
+  }
+
+}
+
+.wrapper > * {
+  background-color: #444;
+  color: #fff;
+  border-radius: 5px;
+  padding: 20px;
+  font-size: 150%;
+  /* needed for the floated layout*/
+  margin-bottom: 10px;
+}
+
+/* We need to set the widths used on floated items back to auto, and remove the bottom margin as when we have grid we have gaps. */
+@supports (display: grid) {
+  .wrapper > * {
+    width: auto;
+    margin: 0;
+  }
+}
+.pocetna{
+  background-image: url(./cars.jpg);
+  height: 562px;
+  text-align: center;
+}
+.glavniZaDugmad{
+   padding-top: 200px;
+}
+.dugme {
+    color: red;
+    margin: 10px;
+}
+footer{
+  text-align: center;
+}
+.link {
+  text-decoration: none;
+  color:black;
+}
+.osnovniPrikaz{
+  text-align: center;
+}
+.osnovniAuto{
+  margin: 10px;
+  border-top: solid 2px gray;
+ 
+}
+.btn {
+  margin: 10px;
+}
+.levi{
+  width: 50%;
+  float: left;
+}
+.classDetail{
+  font-size: 20px;
+  text-align: center;
+}
+.divKomentari{
+width: 50%;
+float: left;
+}
+.komentari{
+  margin-right: 50px;
+}
+.divZaBrisanje{
+  width: 23%;
+  border: solid 2px gray;
+  text-align: center;
+  float: left;
+  margin: 7px;
+  background-color: #f2f2f2;
+}
+.LinkDelete{
+  width: 100%;
+  float: left;
+}
+.pretragaBrisanje{
+  text-align: center;
+}
+.LinkSalon{
+  text-align: left;
+}
+input{
+  margin: 5px;
+ text-align: center;
+}
+
+.h2{
+  text-align: center;
+}
+/* .Pretraga{
+  text-align: center;
+} */
+/* .Kontejner{
+  width: 100%;
+  float: left;
+} */
+.Kontejner {
+  border-radius: 5px;
+  background-color: #f2f2f2;
+  padding: 20px;
+  padding-left: 33%;
+}
+
+.col25 {
+  float: left;
+  width: 25%;
+  margin-top: 6px;
+ 
+}
+
+.col75 {
+  float: left;
+  width: 75%;
+  margin-top: 6px;
+}
